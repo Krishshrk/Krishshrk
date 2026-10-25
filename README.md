@@ -1,7 +1,7 @@
 <!-- HERO BANNER -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1020,50:142B4A,100:315CBB&text=SHRIKRISH.&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=17&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0B1020,50:142B4A,100:315CBB&text=SHRIKRISH&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20SOFTWARE%20ENGINEER&descAlignY=58&descSize=17&animation=fadeIn"
     width="100%"
     alt="Shrikrish — AI Engineer and Software Engineer"
   />
