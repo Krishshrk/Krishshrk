@@ -127,10 +127,10 @@ model evaluation, and applied machine learning.
     alt="GitHub Statistics"
   />
   <img
-    width="49%"
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Krishshrk&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FF&text_color=C9D1D9"
-    alt="Top Languages"
-  />
+  width="49%"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=Krishshrk&layout=compact&hide=Jupyter%20Notebook&langs_count=8&hide_border=true&bg_color=0D1117&title_color=70A5FF&text_color=C9D1D9"
+  alt="Top Programming Languages"
+/>
 </div>
 
 <div align="center">
