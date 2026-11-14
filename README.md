@@ -117,28 +117,28 @@ model evaluation, and applied machine learning.
 ---
 
 
+
 ## `04` — GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="180"
-    src="https://github-readme-stats.vercel.app/api?username=Krishshrk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=70A5FF&icon_color=70A5FF&text_color=C9D1D9&rank_icon=github"
-    alt="GitHub Statistics" />
-
-  <img width="49%" height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishshrk&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FF&text_color=C9D1D9"
-    alt="Top Languages" />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api?username=Krishshrk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=70A5FF&icon_color=70A5FF&text_color=C9D1D9&rank_icon=github"
+    alt="GitHub Statistics"
+  />
+  <img
+    width="49%"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Krishshrk&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FF&text_color=C9D1D9"
+    alt="Top Languages"
+  />
 </div>
 
 <div align="center">
-  <img width="70%"
+  <img
+    width="70%"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Krishshrk&theme=dark&hide_border=true&background=0D1117&ring=70A5FF&fire=70A5FF&currStreakLabel=70A5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    alt="GitHub Contribution Streak" />
-</div>
-
-<div align="center">
-  <img width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Krishshrk&bg_color=0D1117&color=C9D1D9&line=70A5FF&point=FFFFFF&area=true&hide_border=true"
-    alt="GitHub Contribution Activity" />
+    alt="GitHub Contribution Streak"
+  />
 </div>
 
 ## `05` — Let's Connect
