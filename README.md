@@ -116,36 +116,30 @@ model evaluation, and applied machine learning.
 
 ---
 
+
 ## `04` — GitHub Analytics
 
-<p align="center">
-  <img
+<div align="center">
+  <img width="49%" height="180"
     src="https://github-readme-stats.vercel.app/api?username=Krishshrk&show_icons=true&hide_border=true&bg_color=0D1117&title_color=70A5FF&icon_color=70A5FF&text_color=C9D1D9&rank_icon=github"
-    height="175"
-    alt="GitHub statistics"
-  />
-  <img
+    alt="GitHub Statistics" />
+
+  <img width="49%" height="180"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krishshrk&layout=compact&hide_border=true&bg_color=0D1117&title_color=70A5FF&text_color=C9D1D9"
-    height="175"
-    alt="Most-used programming languages"
-  />
-</p>
+    alt="Top Languages" />
+</div>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Krishshrk&hide_border=true&background=0D1117&ring=70A5FF&fire=70A5FF&currStreakLabel=70A5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
-    width="70%"
-    alt="GitHub contribution streak"
-  />
-</p>
+<div align="center">
+  <img width="70%"
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Krishshrk&theme=dark&hide_border=true&background=0D1117&ring=70A5FF&fire=70A5FF&currStreakLabel=70A5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E"
+    alt="GitHub Contribution Streak" />
+</div>
 
-<p align="center">
-  <img
+<div align="center">
+  <img width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=Krishshrk&bg_color=0D1117&color=C9D1D9&line=70A5FF&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
-</p>
+    alt="GitHub Contribution Activity" />
+</div>
 
 ## `05` — Let's Connect
 
